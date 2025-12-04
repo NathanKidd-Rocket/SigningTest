@@ -9,12 +9,4 @@ Sign testing
 6. Tweakalate
 7. Remote
 8. Another test
-9. Revelate
-another
-anotheeeer
-22
-33
-44
-55
-66
-77
+9. Super duper test
